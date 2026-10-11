@@ -1,75 +1,53 @@
-# 2026-10-12 · 认识彼此：自我介绍
+# 2026-10-12 · 10 分钟能力基线
 
-[学习日历](../README.md) · [下一天](../2026-10-13/README.md)
+[学习日历](../README.md) · [填写回答](notes.md)
 
-**今天的目标：** 能用 4–5 句话介绍姓名、居住地、工作或学习情况，以及学习英语的目标。
+**状态：待作答。** 这组题是自编的 **仿真练习**，用于收集阅读、语法和简单写作的起点信息。几道题的表现不能据此确定英语等级，也不代表已经能达到考试分数目标。
 
-**建议时间：** 30 分钟。按“复习 5 分钟 → 词汇 5 分钟 → 朗读 8 分钟 → 练习 9 分钟 → 记录 3 分钟”完成。
+## 10 分钟必做
 
-## 1. 先复习
+先独立作答，每题标记 **有依据／不确定／猜**。阅读题尽量贴出原文证据；找不到证据时直接说明。10 分钟到就停，未完成的题标记“未答”。今天的主任务是这组小样本诊断，没有尚未形成的旧错题需要复习。
 
-这是起点。先尝试说 3 句英语作为基线，月底再对比是否更流畅；不要求今天已经说得完美。
+### 阅读 · 5 分钟
 
-## 2. 核心词句
+> Chen is a software developer. He reads English articles at work. He usually understands the main ideas, but sometimes uses a translation to check details. Last month, he decided to improve his English. He now studies for ten minutes after dinner, four days a week. He writes difficult expressions in a notebook. At weekends, he reviews these expressions instead of starting a new lesson. He thinks short sessions are easier to continue than long ones.
 
-| 英语 | 中文 |
-| --- | --- |
-| name | 名字 |
-| live in | 住在 |
-| work as | 从事……工作 |
-| study | 学习 |
-| learn English | 学习英语 |
-| Nice to meet you. | 很高兴认识你。 |
+第 1–3 题选择 **True（T）／False（F）／Not Given（NG）**。
 
-## 3. 实用句子
+1. Chen understands all the details without using a translation.
+2. Chen studies English on four days each week.
+3. Chen's manager asked him to improve his English.
 
-1. **My name is Alex.**  
-   我的名字叫 Alex。
-2. **I live in Shanghai.**  
-   我住在上海。
-3. **I'm learning English.**  
-   我正在学习英语。
-4. **Nice to meet you.**  
-   很高兴认识你。
+4. Why does Chen prefer short study sessions?
 
-## 4. 对话朗读
+   A. They help him finish more articles at work.  
+   B. They make it easier for him to keep studying.  
+   C. They allow him to avoid reviewing old expressions.  
+   D. They require less effort than reading English.
 
-**A:** Hi, I'm Alex. What's your name?  
-**B:** I'm Sam. Nice to meet you.  
-**A:** Nice to meet you, too. Where do you live?  
-**B:** I live in Shanghai. How about you?  
-**A:** I live in Beijing. I'm learning English.  
-**B:** Me too!  
+### 语法 · 2 分钟
 
-先朗读两遍，再替换成自己的信息；如果方便，可以录下第二遍并回听。
+5. 选出所有你认为正确的句子，并用中文写一句理由。
 
-## 5. 表达练习
+   A. I like walk after dinner.  
+   B. I like walking after dinner.  
+   C. I like to walk after dinner.
 
-1. 用自己的真实信息填写：My name is ____. I live in ____. I work as a ____ / I'm a student. I'm learning English because ____.
-2. 不看示例，大声介绍自己 30–45 秒；想不起的词可以先用简单表达替代。
-3. 在学习记录里写一个本月底希望做到的具体目标，例如：用英语点餐。
+### 简单写作 · 3 分钟
 
-把自己的答案写在 [学习记录](notes.md) 中。先尝试独立表达，再查词或请学习助手纠正。
+6. 请把下面两句话写成你能独立写出的最简单英语，每句分别标记把握程度。
 
-## 6. 今日自测
+   - 我每天学习英语。
+   - 我希望通过这次考试。
 
-1. 补全：My ____ is Alex.
-2. 补全：I live ____ Shanghai.
-3. 把“我正在学习英语”译成英文。
+## 有时间再做 · 最多 3 分钟
 
-<details>
-<summary>完成后展开参考答案</summary>
+尝试把第 6 题的两句话合并成一句，保持原意。这是加练，必做部分没完成时先保留现有回答。
 
-1. name
-2. in
-3. I'm learning English. / I am learning English.
+## 提交方式
 
-开放题允许其他意思相同、语法正确的答案。
+在 [学习记录](notes.md) 中作答，或直接发给学习助手：
 
-</details>
+`题号：答案｜有依据／不确定／猜｜原文证据或简短理由`
 
-## 可选挑战
-
-增加一句具体原因：I want to use English when I travel.（我想在旅行时用英语。）
-
-完成后填写 [学习记录](notes.md)，如实勾选已完成的部分。
+第 6 题写两个英文句子，并记录实际用时。提交后再提供答案和解析：阅读题核对证据、同义改写与干扰项；语法只解释当前题需要的规则；写作先修正影响表达的地方。错题和猜对题进入简短的后续复习记录。
