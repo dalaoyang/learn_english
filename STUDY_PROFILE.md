@@ -62,3 +62,7 @@
 - 下一次词形任务暂以少量有上下文的题为起点，先识别主语、动词和触发结构；避免把like后的doing/to do设计成只能有一个答案的填空。根据今天独立写句结果决定提示量及最后题目，不同时加入多套新语法规则。
 
 最新写句原答为i like study english every day; i wang to pass this exam;。已观察到every day和exam修正，当前重点为like后的动作形式、want拼写及I/English大写。订正时可先统一用like to study与want to pass，解释like搭配允许doing或to do；一次订正后结束本日新任务，不无限重复，明日换句验证。
+
+## 2026-10-12最终收尾
+
+最新原答为i like playing basketball on sunday; 喜欢打球，like 名词或者 like to 动作；。like playing basketball显示一次换活动后的正确应用，需补全to + 动词原形的规则并规范I/Sunday大写。今天可以结束；第二句want拼写未再次提交，明日先用1–2道短变式复查。未提供用时或正式信心标记，不认定跨句稳定掌握，也不把未提交项计为已完成。
