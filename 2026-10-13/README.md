@@ -2,7 +2,7 @@
 
 [学习日历](../README.md) · [作答记录](notes.md) · [备考约定](../STUDY_PROFILE.md)
 
-**状态：此前基础与[主动加练](extra-practice.md)已收尾；较难段落已[讲解](paragraph-explanation.md)，新的[带词库段落](guided-paragraph.md)待作答。** 准备日期为2026-10-12，实际作答日期为2026-10-13。原题保留，真实结果见[作答记录](notes.md)，收尾见[今日总结](summary.md)。
+**状态：此前基础与[主动加练](extra-practice.md)已收尾；较难段落已[讲解](paragraph-explanation.md)，[带词库段落](guided-paragraph.md)已答，只需一次短订正。** 准备日期为2026-10-12，实际作答日期为2026-10-13。原题保留，真实结果见[作答记录](notes.md)，收尾见[今日总结](summary.md)。
 
 **来源：自编仿真练习（基础训练版）。** 本组不是历年原题，也没有未经核验的官方答案或真题难度声明。
 
