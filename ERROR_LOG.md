@@ -53,3 +53,9 @@ M2答to pass、M4答to write，填法正确；选择依据未提交，不能标�
 - W1原答my job is coding for some software，中文意图为写软件代码。句子结构可用，coding并非必须改为不定式；推荐My job is writing code.只是措辞优化及规范首字母，不把原句登记为硬语法错误。
 - W2原答i always stydy english after lunch，中文意图为通常午饭后学英语。实际问题是stydy→study及I／English大写；always语法正确，usually更贴中文“通常”。推荐句I usually study English after lunch.尚未由用户重写。
 - 先接续同一主任务W3、W4，四句齐后统一检查一次，主干标注和改写仍未完成。不反复加题，不据两个句子推断等级；正式把握与用时未提供。
+
+## 2026-10-14写作 · W3与W4
+
+- W3原答I study english test the real exam，中文意图为通过真题学习。需要明确方式关系；教师示例I study English by doing past exam papers.，by doing表示通过做，past exam papers指历年试卷。此示例对应表达意图，不证明已使用经核验真题；新结构独立应用待下次复查。
+- W4原答i learn english because i want to pass the exam，because连接完整原因小句的结构正确，只规范两处I与English大写；want符合愿望，不强改hope。
+- 四句已提交，原主干标注和改变时间的改写待答。当前只做这两小步，不要求重抄整段或再做一组；不把教师范句作为用户独立写作结果。

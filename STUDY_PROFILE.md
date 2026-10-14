@@ -126,3 +126,9 @@ R1答studies，理由第三人称单数；R2答reliable，理由形容词，均�
 用户独立提交my job is coding for some software及i always stydy english after lunch，并提供中文意图。两句意思完整，W1结构可以，主要优化措辞；W2需规范study拼写及I／English大写，always在语法上成立，usually更贴用户“通常”的表述。当前未由用户重写，不能把教师推荐句记为完成订正。
 
 按移动端继续直接发W3实际学习活动、W4目标，不提供英文参考成句；四句齐后统一检查，再标主干与改写。原20分钟写作主任务及4–6句目标不变，时间与正式把握未提供，不推断能力等级。
+
+## 2026-10-14写作 · 四句已提交
+
+W3写I study english test the real exam，意图为通过真题学英语，需用清楚的方式连接；已教by doing past exam papers，但未验证用户独立使用。英文方法句只对应用户中文，不把它当作已获得或使用真题的证据。W4写i learn english because i want to pass the exam，结构正确，仍需I／English大写；want可表达愿望，不强改hope。
+
+手机端只接原收尾动作：识别W4 because后小句的主语与主要动词，W2学习时间改为晚饭后一次完整改写。新by doing结构留到下一次短复查，不要求反复抄四句；学生四句内容量已达标，教师建议与学生实际订正分开记录。
