@@ -59,3 +59,12 @@ M2答to pass、M4答to write，填法正确；选择依据未提交，不能标�
 - W3原答I study english test the real exam，中文意图为通过真题学习。需要明确方式关系；教师示例I study English by doing past exam papers.，by doing表示通过做，past exam papers指历年试卷。此示例对应表达意图，不证明已使用经核验真题；新结构独立应用待下次复查。
 - W4原答i learn english because i want to pass the exam，because连接完整原因小句的结构正确，只规范两处I与English大写；want符合愿望，不强改hope。
 - 四句已提交，原主干标注和改变时间的改写待答。当前只做这两小步，不要求重抄整段或再做一组；不把教师范句作为用户独立写作结果。
+
+
+## 2026-10-14收尾 · 主要动词与改写
+
+收尾真实原答：“1.主语是i 也就是我，动词是pass；2. i usually study english after dinner”。正式把握与用时未提供。
+
+- 原因小句I want to pass the exam：主语I正确，主要动词答pass错误，应为want。pass确实是动词，在这里属于to pass不定式，说明想做什么。已给解析，不记为用户再次答对；下一次用不同主要动词复查。
+- 改写结构、时间替换和study拼写正确，仍需I／English大写。晚饭后是练习变化，不更新用户实际学习习惯，也不由一处正确拼写认定全部写作问题解决。
+- 今天必做已提交并反馈，可以结束。10月15日已准备by doing和主干两题复查，计入5分钟；随后短文选择题继续观察continue／keep的同义关系及avoid reviewing选项，不附未答题解析。
