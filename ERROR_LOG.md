@@ -47,3 +47,9 @@ M2答to pass、M4答to write，填法正确；选择依据未提交，不能标�
 ## 10月14日课复查 · 两题正确
 
 真实原答：“R1 studies，第三人称单数；R2 reliable 形容词”。两题及简短理由均正确：R1支持本次第三人称单数动词变形的运用，R2支持本次识别描述网站性质的形容词。无需为这两题再补练；正式把握、实际用时与日期未单独报告，不能代填或推断等级。写作尚未提交，将在独立写句中继续观察迁移。
+
+## 2026-10-14写作 · 前两句已答
+
+- W1原答my job is coding for some software，中文意图为写软件代码。句子结构可用，coding并非必须改为不定式；推荐My job is writing code.只是措辞优化及规范首字母，不把原句登记为硬语法错误。
+- W2原答i always stydy english after lunch，中文意图为通常午饭后学英语。实际问题是stydy→study及I／English大写；always语法正确，usually更贴中文“通常”。推荐句I usually study English after lunch.尚未由用户重写。
+- 先接续同一主任务W3、W4，四句齐后统一检查一次，主干标注和改写仍未完成。不反复加题，不据两个句子推断等级；正式把握与用时未提供。
