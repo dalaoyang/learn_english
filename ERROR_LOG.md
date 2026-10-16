@@ -97,3 +97,12 @@ R1原答reading，解释“by+doing吧”；R2答主语She、主要动词plans�
 S1真实原答：“A肯定不对，对应的应该是She still cannot answer two questions；B对，保持检查答案；C不对和B相反”。B正确，every与仍有两题不会答的范围矛盾识别正确，keep／continue对应成立，C排除成立。中文“保持检查”可理解为持续，教师规范为继续检查，不另记英语错误。
 
 本题是讲解后的新句验证，原M4仍保留猜B错误；不把核心阅读3／4改成4／4，不据一次变式认定稳定掌握。当天可以结束，不再追加。明日两题短复查包含延迟同义对应，以及一句新语境中的little time／felt tired；范围在阅读判断中继续观察。正式把握未单独标记，实际用时仍未知。
+
+
+## 2026-10-16晚间复查 · 同义与little time
+
+R1选B并说明keep learning是继续学习，A是停止学习，判断正确。R2中felt tired理解为感到累了，little time答“一点时间”；本句应理解为时间很少／没有多少时间，整句是下班后很累且没有多少时间学习。正式把握和用时未提供。今晚按用户要求缩量，先做J1–J4，不追加标题匹配或写作。
+
+## 2026-10-16晚间阅读判断收尾
+
+J1 T、J2 F、J3 T、J4 NG，均判断正确。J1依据晚饭后15分钟；J2依据does not try to remember every new word的明确否定；J3依据Reading with Lin helps Anna continue learning English的同义改写；J4用户指出只说Lin是朋友、没有说同一办公室，正确识别为信息不足NG。今晚按15–20分钟缩量完成，不追加标题、句尾或写作；实际用时未提供。
