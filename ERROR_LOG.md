@@ -106,3 +106,16 @@ R1选B并说明keep learning是继续学习，A是停止学习，判断正确。
 ## 2026-10-16晚间阅读判断收尾
 
 J1 T、J2 F、J3 T、J4 NG，均判断正确。J1依据晚饭后15分钟；J2依据does not try to remember every new word的明确否定；J3依据Reading with Lin helps Anna continue learning English的同义改写；J4用户指出只说Lin是朋友、没有说同一办公室，正确识别为信息不足NG。今晚按15–20分钟缩量完成，不追加标题、句尾或写作；实际用时未提供。
+
+
+## 2026-10-17第1段 · 标题与句尾
+
+M1 H2、M2 H3、M3 H1、S1 P2、S2 P1均选择正确。S1中文解释把kitchen table说成书桌，已修正为厨房的桌子／餐桌；S2将different answers说成有难题，已修正为答案不同。两个选项均未选错，正式把握和用时未提供。
+
+## 2026-10-17第2段 · W4与W5订正
+
+用户原句W4含有`i listening`、`reading`等形式问题。教师讲解后用户先写`i read english book`：read形式正确，但没有完成When I learn English结构，也漏掉“有时听英语歌曲或读英语书”；English book需冠词或复数。W5写`i want to learn english so as to pass the exam`，want to learn和so as to pass均正确。正式把握和用时未提供；W4待完整重写。
+
+## 2026-10-17写作收尾
+
+第2段五句及第3段60–80词短文已提交。W4第二次订正中listen to正确，但a English需为an English；W5的I will take an English exam、want to learn与to pass结构可用，study English best需改为study English well。内容覆盖工作、时间、学习方法和目标，主要问题集中在动词结构、介词、冠词与词语选择。今天可以结束，下次先用两句短题复查an English、well/best和并列结构。

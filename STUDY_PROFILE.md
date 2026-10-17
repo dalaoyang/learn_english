@@ -185,3 +185,16 @@ R1、R2正确；阅读M1 A、M2 B、M3 D选对，M4明确猜B错误。M3所称�
 ## 2026-10-16缩量收尾
 
 今晚按时间较晚临时缩为15–20分钟。R1正确；R2 felt tired正确、little time已从“一点时间”修正为时间很少。J1 T、J2 F、J3 T、J4 NG均正确，J4的“没提到”准确体现NG与F的区别。标题／句尾和写作移到10月17日90分钟三段，不将今晚未做内容叠加为欠交。实际用时未提供。
+
+
+## 2026-10-17第1段进度
+
+标题匹配与句尾补全5题全部选择正确。kitchen table的中文对象、different answers与difficult questions的关系需要继续观察；本次已讲解，不追加词汇题。第2段转入4–6句独立写作，第3段短文按实际表现决定，不预填完成。
+
+## 2026-10-17第2段进度
+
+第2段五句已提交。用户先订正W4为`I read English book`，read动词形式正确，但仍需完成When I learn English结构、两个并列动作及冠词／复数；W5为`I want to learn English so as to pass the exam`，结构正确。W4再完整重写一次后，再决定是否进入第3段短文；不因五句提交就强行追加篇幅。
+
+## 2026-10-17写作收尾
+
+第3段60–80词短文及两句订正已提交。W4保留listen to和并列动作，残留a English；W5正确使用will take、want to和to pass，但study English best需改为study English well。三段均完成，今天可以结束，不再重复整篇；下次短复查冠词、well/best及并列结构，再进入下一题型。正式用时未提供，不推算。
