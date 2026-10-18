@@ -4,7 +4,7 @@
 
 按用户提供的考试信息：卷面100分、目标60分，作文占30分。实际助学成绩仍未确认，不假定已经获得30分助学成绩，也不据此保证通过。
 
-[长期计划](LONG_TERM_PLAN.md) · [备考约定](STUDY_PROFILE.md) · [错题与复习记录](ERROR_LOG.md) · [手机答题站方案](SITE_PLAN.md)
+[长期计划](LONG_TERM_PLAN.md) · [备考约定](STUDY_PROFILE.md) · [错题与复习记录](ERROR_LOG.md) · [手机答题站](site/index.html) · [手机答题站方案](SITE_PLAN.md)
 
 ## 学习节奏
 

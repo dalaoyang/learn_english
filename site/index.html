@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#173f4a" />
+    <title>13000 英语学习站</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-topline">
+          <span class="eyebrow">湖北自考英语 · 13000</span>
+          <span class="date-badge" id="today-badge">手机答题站</span>
+        </div>
+        <h1>今天学一点，证据留得住。</h1>
+        <p class="hero-copy">先独立作答，再把答案和依据发给教练。页面只保存你的草稿，不提前显示答案。</p>
+      </header>
+
+      <main>
+        <section class="day-picker" aria-labelledby="day-picker-title">
+          <div class="section-heading">
+            <div>
+              <span class="eyebrow">学习日</span>
+              <h2 id="day-picker-title">选择一天</h2>
+            </div>
+            <span class="save-state" id="save-state" aria-live="polite">自动保存</span>
+          </div>
+          <div class="day-list" id="day-list"></div>
+        </section>
+
+        <section class="lesson-card" id="lesson" aria-live="polite">
+          <div class="empty-state">
+            <span class="empty-icon">✦</span>
+            <h2>从一天开始</h2>
+            <p>选择上面的日期，题目会按手机屏幕分组出现。</p>
+          </div>
+        </section>
+      </main>
+
+      <footer class="footer">
+        <span>Markdown 是正式学习记录来源。</span>
+        <a href="https://github.com/dalaoyang/learn_english" rel="noreferrer">查看仓库</a>
+      </footer>
+    </div>
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
